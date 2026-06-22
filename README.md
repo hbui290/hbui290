@@ -4,12 +4,12 @@
 
 **Stack I Actually Use**
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007AFF?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-007AFF?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-007AFF?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-007AFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIxIDc3IEMyNSA2NSwgMzUgMzAsIDUwIDI1IEM2NSAzMCwgNzUgNjUsIDc5IDc3IEM4MCA4MCwgNzcgODEsIDc0IDc4IEM2NyA3MCwgNTggNTIsIDUwIDUyIEM0MiA1MiwgMzMgNzAsIDI2IDc4IEMyMyA4MSwgMjAgODAsIDIxIDc3IFoiLz48L3N2Zz4=&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-007AFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIxIDc3IEMyNSA2NSwgMzUgMzAsIDUwIDI1IEM2NSAzMCwgNzUgNjUsIDc5IDc3IEM4MCA4MCwgNzcgODEsIDc0IDc4IEM2NyA3MCwgNTggNTIsIDUwIDUyIEM0MiA1MiwgMzMgNzops2JGNjOCQzIzIDgxLCAyMCA4MCwgMjEgNzcgWiIvPjwvc3ZnPg==&logoColor=white" />
   <img src="https://img.shields.io/badge/Codex-007AFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTUwIDUgQzY1IDUgODAgMTUgODUgMzAgQzk1IDMyIDEwMCA0MiA5NSA1MiBDMTAwIDYyIDk1IDc1IDgyIDc4IEM3OCA5MiA2MyA5OCA1MCA5NSBDMzcgOTggMjIgOTIgMTggNzggQzUgNzUgMCA2MiA1IDUyIEMwIDQyIDUgMzIgMTUgMzAgQzIwIDE1IDM1IDUgNTAgNVoiLz48dGV4dCB4PSI1MCIgeT0iNTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMzAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMDA3QUZGIj4mZ3Q7XzwvdGV4dD48L3N2Zz4=&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-007AFF?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007AFF?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-007AFF?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ---
