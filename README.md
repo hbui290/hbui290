@@ -24,9 +24,7 @@
 
 ---
 
-- Shipped product hitting `$4M+ rev` & `18x post-TGE` in 2 weeks
-- Onboarded `32K+ active users` in 24h
-- Scaled community from `0 to 14K+`
+> Shipped product hitting `$4M+ rev` & `18x post-TGE` in 2 weeks &nbsp;·&nbsp; Onboarded `32K+ active users` in 24h &nbsp;·&nbsp; Scaled DAO community from `0 to 14K+`
 
 ---
 
