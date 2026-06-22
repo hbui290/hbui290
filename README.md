@@ -10,7 +10,10 @@
   <img src="https://img.shields.io/badge/TypeScript-16161e?style=flat-square&logo=typescript&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/Python-16161e?style=flat-square&logo=python&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/LangChain-16161e?style=flat-square&logo=chainlink&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/MCP-16161e?style=flat-square&logo=git&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/JavaScript-16161e?style=flat-square&logo=javascript&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/HTML5-16161e?style=flat-square&logo=html5&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/CSS3-16161e?style=flat-square&logo=css3&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/Bash-16161e?style=flat-square&logo=gnu-bash&logoColor=7aa2f7" />
 </p>
 
 ---
