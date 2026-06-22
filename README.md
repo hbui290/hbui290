@@ -24,15 +24,10 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hbui290&background=16161e&border=16161e&stroke=333333&ring=007AFF&fire=007AFF&currStreakNum=007AFF&sideNums=007AFF&currStreakLabel=a0a0a0&sideLabels=a0a0a0&dates=666666" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hbui290&amp;background=16161e&amp;border=16161e&amp;stroke=333333&amp;ring=007AFF&amp;fire=007AFF&amp;currStreakNum=007AFF&amp;sideNums=007AFF&amp;currStreakLabel=a0a0a0&amp;sideLabels=a0a0a0&amp;dates=666666" width="100%" />
     </td>
-    <td width="50%" valign="top" align="left">
-      <h4>&nbsp;&nbsp;✦ Core Focus</h4>
-      <ul>
-        <li><strong>Agentic AI</strong>: Designing autonomous agent workflows & custom MCP tools.</li>
-        <li><strong>Web3 Systems</strong>: High-efficiency protocol routing & post-TGE mechanics.</li>
-        <li><strong>Infrastructure</strong>: Optimizing developer pipelines, AST analyzers, & runtimes.</li>
-      </ul>
+    <td width="50%" valign="top" align="center">
+      <img src="core_focus.svg?v=1" width="100%" />
     </td>
   </tr>
 </table>
