@@ -1,10 +1,11 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=4000&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Winston%20%E2%9C%A6;5+yrs+shipping+Web3+products+%26+scaling+communities.+Now+deep+in+agentic+AI." alt="Typing SVG" /></a>
+      <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3500&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=80&amp;lines=Winston%20%7C%20Web3%20%26%20AI%20Systems%20Engineer;5%2B%20years%20shipping%20Web3%20products;Currently%20building%20autonomous%20agent%20workflows" alt="Typing SVG" /></a>
     </td>
   </tr>
 </table>
+
 
 
 
