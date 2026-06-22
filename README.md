@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:iamandrew0x@gmail.com"><img src="https://img.shields.io/badge/Email-iamandrew0x%40gmail.com-1a1b26?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/imandrewwx0"><img src="https://img.shields.io/badge/X-%40imandrewwx0-1a1b26?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://t.me/imandrewwx0"><img src="https://img.shields.io/badge/Telegram-imandrewwx0-1a1b26?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:iamandrew0x@gmail.com"><img src="https://img.shields.io/badge/Email-iamandrew0x%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/imandrewwx0"><img src="https://img.shields.io/badge/X-%40imandrewwx0-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://t.me/imandrewwx0"><img src="https://img.shields.io/badge/Telegram-imandrewwx0-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
@@ -25,17 +25,19 @@
 ### 🧰 Tech Stack & Toolkits
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web3_BD-1a1b26?style=flat-square" />
-  <img src="https://img.shields.io/badge/Growth_Design-1a1b26?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Agents-1a1b26?style=flat-square" />
-  <img src="https://img.shields.io/badge/Operations-1a1b26?style=flat-square" />
-  <br>
-  <img src="https://img.shields.io/badge/Python-1a1b26?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1a1b26?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-1a1b26?style=flat-square" />
-  <img src="https://img.shields.io/badge/Claude_AI-1a1b26?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-1a1b26?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3_BD-2563EB?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Growth_Design-EC4899?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operations-0F766E?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-005F73?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
