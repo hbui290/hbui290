@@ -3,24 +3,22 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=7aa2f7&center=true&vCenter=true&width=620&lines=Web3+researcher+turned+AI+tinkerer;5+years+in+crypto+%7C+now+deep+in+agents;Growth+%2F+BD+%2F+Ops+%2F+Automation;Building+in+public+%E2%80%94+mostly+breaking+things" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=7aa2f7&center=true&vCenter=true&width=620&lines=5+years+in+Web3+ops+%26+BD;now+building+AI+tooling+on+top+of+it;LangChain+%2F+MCP+%2F+local+models" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  Crypto Native &nbsp;·&nbsp; Web3 Growth & BD &nbsp;·&nbsp; AI Agent Learner
+  Web3 Growth & BD &nbsp;·&nbsp; AI Tooling &nbsp;·&nbsp; LangChain / MCP
 </p>
 
 ---
 
-Spent the last few years deep in Web3 — marketing, BD, community ops, and ecosystem research across DeFi / GameFi / DAO infra. Now going deep on AI agents, MCP toolchains, and how to wire automation into the things I already know.
-
-Most repos here are tools I built or forked to solve real problems. Not portfolio pieces.
+5 years running growth and BD across Web3 — GameFi launches, DAO ops, ecosystem research. Now building tooling to audit and automate AI agent workflows.
 
 ```
-Currently Exploring ──────────────────────────────────────────
-  ├─ Agentic workflows  →  multi-step, tool-using LLM pipelines
-  ├─ MCP + local models →  self-hosted infra for AI toolchains
-  └─ On-chain analytics →  automating signal extraction from data
+Currently ─────────────────────────────────────────────────────
+  ├─ skillspector   →  detecting prompt injection in MCP skill files
+  ├─ 9router        →  local LLM call routing with latency fallback
+  └─ digging into   →  LangGraph multi-agent patterns + MCP server auth
 ```
 
 ---
