@@ -1,89 +1,75 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=1a1b26&height=120&section=header&text=Winston%20✦&fontSize=30&theme=tokyonight" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=1a1b26&height=120&section=header&text=hbui290&fontSize=30&fontColor=7aa2f7&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Web3+Growth+Strategist;AI+Agent+Researcher;DeFi+and+GameFi+Ops" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=7aa2f7&center=true&vCenter=true&width=600&lines=Web3+researcher+turned+AI+tinkerer;5+years+in+crypto+%7C+now+deep+in+agents;growth+%2F+BD+%2F+ops+%2F+automation;building+in+public+%E2%80%94+mostly+breaking+things" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <strong>Web3 Growth & BD | AI Automation & Agent Workflows</strong>
-</p>
-
-<p align="center">
-  Designing automated workflows and growth systems at the intersection of Web3 and AI. Currently scaling <strong>AntiAntiNFTs Club (AANC)</strong> (14K+ members) and building custom AI agent modules.
+  crypto native &nbsp;·&nbsp; web3 growth & BD &nbsp;·&nbsp; ai agent learner
 </p>
 
 ---
 
-### 🧰 Tech Stack & Toolkits
+**what i actually do**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web3_BD-7aa2f7?style=flat-square&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Growth_Design-f7768e?style=flat-square&logo=google-analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-bb9af7?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Operations-2ac3de?style=flat-square&logo=githubactions&logoColor=white" />
-</p>
+spent the last few years in web3 — marketing, BD, community ops, ecosystem research across DeFi / GameFi / DAO infra. currently going deep on AI agents, MCP, and how to wire automation into the stuff i already know.
 
-<p align="center">
+most repos here are tools i built or forked to solve real problems. not portfolio pieces.
+
+```
+currently exploring ──────────────────────────────────────────
+  ├─ agentic workflows  →  multi-step, tool-using LLM pipelines
+  ├─ MCP + local models →  self-hosted infra for AI toolchains
+  └─ on-chain analytics →  automating signal extraction from data
+```
+
+---
+
+**stack i actually use**
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-005F73?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_AI-ff9e64?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-ff9e64?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Codex-414868?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM3QjlGRkYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjNUI1MEU4Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cGF0aCBmaWxsPSJ1cmwoI2cpIiBkPSJNNTAgNSBDNjUgNSA4MCAxNSA4NSAzMCBDOTUgMzIgMTAwIDQyIDk1IDUyIEMxMDAgNjIgOTUgNzUgODIgNzggQzc4IDkyIDYzIDk4IDUwIDk1IEMzNyA5OCAyMiA5MiAxOCA3OCBDNSA3NSAwIDYyIDUgNTIgQzAgNDIgNSAzMiAxNSAzMCBDMjAgMTUgMzUgNSA1MCA1WiIvPgogIDx0ZXh0IHg9IjUwIiB5PSI1OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIzMCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIj4mZ3Q7XzwvdGV4dD4KPC9zdmc+&logoColor=white" />
   <img src="https://img.shields.io/badge/Antigravity-bb9af7?style=flat-square&logo=googlegemini&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Key Performance Metrics (Web3 BD & Growth)
+**things i've shipped / touched**
 
-| Metric | Achievement | Project / Context |
-| :--- | :--- | :--- |
-| ![](https://img.shields.io/badge/User_Acquisition-7aa2f7?style=flat-square) | **+32K active players** & **+16K followers** in 24h | Web3 RPG Launch (Community-Led) |
-| ![](https://img.shields.io/badge/Campaign_Growth-f7768e?style=flat-square) | **83K+ views**, **8K+ participants**, **+1.2K followers** | 2-Week Galxe Campaign |
-| ![](https://img.shields.io/badge/DAO_Scaling-bb9af7?style=flat-square) | **14K+ members** & **200+ partner network** | AntiAntiNFTs Club (AANC) |
-| ![](https://img.shields.io/badge/Financial_Impact-2ac3de?style=flat-square) | **$4M+ post-launch revenue** & **18x token growth** | Multi-chain project launch (NDA) |
-| ![](https://img.shields.io/badge/Ecosystem_Research-ff9e64?style=flat-square) | **150+ articles**, **200K+ views**, **+15% community** | C-Spaceship (Avax, Fantom, Celo) |
-
----
-
-### 💼 Core Experience & Contributions
-
-| Organization & Role | Core Contributions | Key Highlights |
-| :--- | :--- | :--- |
-| **AntiAntiNFTs Club (AANC)** <br> *Community Manager (2024 - Pres)* | • Coordinated campaign ops & joint activations with SoMon, Gomble, Lumiterra.<br>• Managed community onboarding and quests as The Sandbox VN Ambassador. | ![](https://img.shields.io/badge/14K+_DAO-bb9af7?style=flat-square) |
-| **Product & Ecosystem BD** <br> *Freelance / RuneMine / Sui VN* | • Developed tokenomics & gamified user onboarding models for Web3 RPGs.<br>• Led competitor trend analysis, VC outreach material, and local channel advisory. | ![](https://img.shields.io/badge/APAC/LATAM_Growth-7aa2f7?style=flat-square) |
-| **C-Spaceship** <br> *Deputy Head of Research (2022 - 2023)* | • Managed monthly publication pipeline (10+ articles/mo) & scaled team by 20%.<br>• Designed research and content strategy focusing on Layer-1/Layer-2 networks. | ![](https://img.shields.io/badge/200K+_Views-ff9e64?style=flat-square) |
+| repo | what it is |
+| :--- | :--- |
+| [skillspector](https://github.com/hbui290/skillspector) | security + capability scanner for AI agent skill files |
+| [last30days-skill](https://github.com/hbui290/last30days-skill) | pulls market signals from Reddit / HN / X / YouTube into one feed |
+| [9router](https://github.com/hbui290/9router) | local AI coding router — auto-fallback + latency tracking |
+| [test-lab](https://github.com/hbui290/test-lab) | scratch pad for tokenomics models & ops scripts |
 
 ---
 
-### 🛠️ Personal AI Toolkits & Active Forks
+**some numbers from the web3 side**
 
-Most repositories here are customized forks to automate operations and audit AI agent capabilities:
-
-| Repository | Purpose | Stack |
-| :--- | :--- | :--- |
-| [skillspector](https://github.com/hbui290/skillspector) | Optimized security and capability scanner for AI agent skills. | `Python` / `LangChain` |
-| [last30days-skill](https://github.com/hbui290/last30days-skill) | Aggregates and synthesizes market insights across Reddit, HN, X, YouTube. | `Python` |
-| [9router](https://github.com/hbui290/9router) | Local router for AI coding connections with auto-fallback and RTK. | `JavaScript` |
-| [test-lab](https://github.com/hbui290/test-lab) | Personal sandbox for tokenomics analysis and operation scripts. | `Markdown` |
+> `+32K players` onboarded in 24h &nbsp;|&nbsp; `83K views / 8K participants` on a 2-week Galxe run &nbsp;|&nbsp; `14K member DAO` scaled from scratch &nbsp;|&nbsp; `200K+ monthly views` running research at C-Spaceship
 
 ---
 
-### 📈 Contribution History
+**contribution graph**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake" width="100%" />
-  <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/hbui290">
-    <img src="https://github-readme-stats.vercel.app/api?username=hbui290&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hbui290&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="150" />
   </a>
   <a href="https://github.com/hbui290">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hbui290&theme=tokyonight" alt="Streak Stats" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hbui290&theme=tokyonight&hide_border=true" alt="streak" height="150" />
   </a>
 </p>
