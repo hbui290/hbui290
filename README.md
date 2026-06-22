@@ -12,13 +12,13 @@
 
 ---
 
-5 years running growth and BD across Web3 — GameFi launches, DAO ops, ecosystem research. Now exploring the AI agent frontier, diving into multi‑agent systems and advanced tool‑using LLM pipelines.
+5 yrs shipping Web3 products & scaling communities. Now hacking on AI agents and LLM toolchains.
 
 ```
 Currently ─────────────────────────────────────────────────────
-  ├─ skillspector   →  detecting prompt injection in MCP skill files
-  ├─ 9router        →  local LLM call routing with latency fallback
-  └─ digging into   →  LangGraph multi-agent patterns + MCP server auth
+  ├─ skillspector   →  security & capability scanner for AI agent skill files
+  ├─ last30days-skill → market‑signal aggregator (Reddit, HN, X, YouTube)
+  └─ 9router        → local LLM routing with auto‑fallback & latency tracking
 ```
 
 ---
