@@ -7,22 +7,22 @@
 </p>
 
 <p align="center">
-  <strong>Web3 Growth Strategist & Marketer | AI Agent Researcher | Community & Partnerships Lead</strong>
+  <strong>Web3 Growth Strategist & BD | AI Agent Researcher | Community & Partnerships Lead</strong>
 </p>
 
 <p align="center">
-  I am a Web3 Growth Strategist and Community Manager with hands-on experience driving marketing campaigns, KOL collaborations, and ecosystem partnerships across global projects (supporting post-launch growth and scaling communities to 32K+ players). Currently, I manage <strong>AntiAntiNFTs Club (AANC)</strong> (14K+ DAO members) while deeply researching <strong>AI Agents</strong> and workflow automation to scale operations.
+  I am a Web3 Growth & Business Development Strategist and Community Manager with 4+ years of experience driving marketing campaigns, KOL collaborations, and ecosystem partnerships across global projects. Currently, I lead community development for <strong>AntiAntiNFTs Club (AANC)</strong> (14K+ member DAO) while researching <strong>AI Agents</strong> and workflow automation to supercharge Web3 operations.
 </p>
 
 <p align="center">
   <a href="mailto:iamandrew0x@gmail.com">
-    <img src="https://img.shields.io/badge/Email-iamandrew0x%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-iamandrew0x%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://x.com/imandrewwx0">
-    <img src="https://img.shields.io/badge/X-%40imandrewwx0-black?style=flat-square&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-%40imandrewwx0-black?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://t.me/imandrewwx0">
-    <img src="https://img.shields.io/badge/Telegram-imandrewwx0-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-imandrewwx0-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
@@ -30,39 +30,73 @@
 
 ## 🧰 Interests & Toolkits
 
-**Core Focus:**  
+**Web3 & Business Development:**  
 ![Web3 Growth Strategy](https://img.shields.io/badge/Web3%20Growth%20Strategy-2563eb?style=flat-square)
+![Partnerships & BD](https://img.shields.io/badge/Partnerships%20%26%20BD-d97706?style=flat-square)
 ![Community Management](https://img.shields.io/badge/Community%20Management-ec4899?style=flat-square)
-![KOL & Partnerships](https://img.shields.io/badge/KOL%20%26%20Partnerships-d97706?style=flat-square)
+![Ecosystem Growth](https://img.shields.io/badge/Ecosystem%20Growth-0f766e?style=flat-square)
+
+**AI & Technical Operations:**  
 ![AI Agent Research](https://img.shields.io/badge/AI%20Agent%20Research-10b981?style=flat-square)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-7c3aed?style=flat-square)
 ![Market Research](https://img.shields.io/badge/Market%20Research-0f766e?style=flat-square)
 
-**Tools & Stacks:**  
-![Claude](https://img.shields.io/badge/Claude-d97706?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+**Technologies & Stacks:**  
+![Claude](https://img.shields.io/badge/Claude%20AI-d97706?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI%20Codex-000000?style=flat-square&logo=openai&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-7c3aed?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7c3aed?style=flat-square&logo=obsidian&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-0f766e?style=flat-square)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-0f766e?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square)
 
 ---
 
-## 🌟 Web3 Contributions & Professional Work
+## 🌟 Web3 Contributions & Case Studies
 
-*   **AntiAntiNFTs Club (AANC) | Community Manager (2024 - Present):**
-    Managing a 14K+ member Vietnam-based NFT DAO and a network of 200+ KOLs. Coordinating joint partnerships with projects like SoMon, Lumiterra, Eternals, Gomble, and supporting The Sandbox Ambassador Program.
-*   **Web3 Growth & System Design (Freelance / RuneMine / Sui Vietnam):**
-    Designed gamified growth systems, executed targeted traffic acquisition campaigns, and managed local social channels for Sui Vietnam. Facilitated partnerships contributing to post-launch scaling and campaign mechanics.
-*   **C-Spaceship | Deputy Head of Research (2022 - 2023):**
-    Created 200+ crypto research articles and videos growing AVAXholic communities by 15%, and delivered weekly market analysis reports.
+### 🚀 Web3 Product & Growth (Freelance / RuneMine / Sui Vietnam)
+*   **Web3 Growth & System Design:**
+    *   Designed user flows, tokenomics, and campaign mechanics for Web3 RPG projects.
+    *   Coordinated global KOL outreach and built guild partnerships across APAC, LATAM, and Africa.
+    *   Supported post-launch scaling contributing to **$4M+ post-launch revenue** and **18× token growth** post-TGE (under NDA).
+*   **Campaign Strategy & Scaling:**
+    *   Launched a 2-week Galxe campaign, securing **83K+ page views**, **8K+ verified participants**, and **1.2K+ organic followers**.
+    *   Scaled a project to **16K X followers** and **32K+ active players** within **24 hours** via community-led growth strategies.
+*   **Ecosystem BD & Advisory (RuneMine / Sui Vietnam):**
+    *   Advised on gamified growth systems and researched competitor/user trends to guide campaign directions.
+    *   Assisted RuneMine in KOL activations, Medium/Docs direction, and VC partner outreach.
+    *   Contributed to Sui Vietnam by localized content creation and driving community participation on Twitter/Discord.
+
+### 👥 AntiAntiNFTs Club (AANC) DAO | Community Manager (May 2024 - Present)
+*   **DAO Leadership:**
+    *   Managing community development for AANC, a Vietnam-based NFT DAO with **14K+ members** and **200+ partner networks** across Asia.
+    *   Leading community-focused campaigns (airdrops, whitelist giveaways, and IRL events) across Vietnam, Philippines, Thailand, and Hong Kong.
+*   **Ecosystem Partnerships:**
+    *   Coordinated joint activations with top Web3 projects including **BreadnButter, SoSom (SoMon), Eternals, CounterFire, GOMBLE, Maxt1x Fire, Lumiterra**, and others.
+    *   Supported CounterFire’s Web3 gaming initiatives through localized outreach with local guilds and key opinion leaders.
+*   **The Sandbox Ambassador Program:**
+    *   Representing AANC in The Sandbox, onboarding Vietnamese players, moderating local groups, and running community events/quests.
+
+### 📚 C-Spaceship Marketing Agency (Avaxholic) | Deputy Head of Research (Jan 2022 - Sep 2023)
+*   **Research & Content Growth:**
+    *   Promoted from Researcher to Deputy Head of Research, leading research teams across **Avalanche, Fantom, and Celo** ecosystems.
+    *   Wrote **150+ research articles** generating **200K+ views** and **5K+ interactions** in a single month.
+    *   Delivered weekly insight reports to the board of directors, advising on GameFi, DeFi, and NFT market trends.
+*   **Team & Community Management:**
+    *   Co-managed content pipelines producing **10+ articles, 6 videos, and 200+ social posts monthly**.
+    *   Supported **15% community growth** and a **25% engagement boost** in 3 months.
+    *   Expanded the research team by **20% in 2 months** by optimizing research/writing workflows.
+
+### 🗺️ Open World | DeFi Researcher & Writer (Early Phase)
+*   Drafted product documentation including the **Whitepaper** and wiki onboarding pages.
+*   Produced educational DeFi blog articles and X posts, translating complex technical specs into accessible retail narratives.
 
 ---
 
-## 🛠️ Personal Toolkits & Forks
+## 🛠️ Personal AI Toolkits & Active Forks
 
-Most repositories here are curated forks customized and optimized for market research, operations, and sandbox experiments:
+I actively customize and orchestrate personal automation toolkits, security scanners, and research agents to optimize my Web3 workflows:
 
 <table>
   <tbody>
@@ -97,13 +131,13 @@ Most repositories here are curated forks customized and optimized for market res
 
 ## 💭 Philosophy
 
-<blockquote>Leverage AI agents to automate the repetitive operations, so we can focus on building high-value partnerships and driving ecosystem growth.</blockquote>
+<blockquote>Leverage AI agents to automate repetitive operations, freeing up capacity to build high-value partnerships and drive ecosystem growth.</blockquote>
 
 ---
 
 ## 📈 Live Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hbui290&show_icons=true&theme=transparent" alt="Winston's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbui290&layout=compact&theme=transparent" alt="Winston's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hbui290&show_icons=true&theme=transparent" alt="Andrew's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbui290&layout=compact&theme=transparent" alt="Andrew's Top Langs" />
 </p>
