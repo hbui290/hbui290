@@ -24,9 +24,9 @@
 
 ---
 
-**Some Numbers from the Web3 Side**
-
-> `$4M+ post-launch revenue` & `18x TGE growth` (under NDA) &nbsp;·&nbsp; `+32K active players` onboarded in 24h &nbsp;·&nbsp; `14K member DAO` scaled from scratch
+- Shipped Web3 product hitting `$4M+ rev` & `18x post-TGE` in 2 weeks (NDA)
+- Onboarded `32K+ active players` in 24h
+- Bootstrapped `14K DAO members` from 0
 
 ---
 
