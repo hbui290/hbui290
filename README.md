@@ -61,9 +61,13 @@ Currently Exploring ────────────────────
   <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake" width="100%" />
 </p>
 
-<a href="https://github.com/hbui290">
-  <img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=hbui290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" />
-</a>
-<a href="https://github.com/hbui290">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbui290&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+  <img src="https://github-readme-stats.vercel.app/api?username=hbui290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" width="100%" />
+</td>
+<td width="50%" valign="top">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbui290&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
+</td>
+</tr>
+</table>
