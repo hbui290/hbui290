@@ -22,5 +22,5 @@
 </p>
 
 <p align="center">
-  <img src="profile-activity.svg?v=4" width="100%" />
+  <img src="profile-activity-v2.svg" width="100%" />
 </p>

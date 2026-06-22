@@ -10,7 +10,7 @@ def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     repo_dir = os.path.dirname(os.path.dirname(script_dir))
     bg_image_path = os.path.join(repo_dir, ".github", "assets", "focus.png")
-    output_svg_path = os.path.join(repo_dir, "profile-activity.svg")
+    output_svg_path = os.path.join(repo_dir, "profile-activity-v2.svg")
 
     # 1. Fetch the dynamic graph SVG from Vercel (transparent background)
     url = "https://github-readme-activity-graph.vercel.app/graph?username=hbui290&bg_color=00000000&color=a0a0a0&title_color=007aff&line=007aff&point=ffffff&area_color=053a75&hide_border=true&hide_title=true"
