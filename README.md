@@ -28,7 +28,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hbui290&theme=tokyonight&hide_border=true" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hbui290&background=16161e&border=16161e&stroke=333333&ring=007AFF&fire=007AFF&currStreakNum=007AFF&sideNums=007AFF&currStreakLabel=a0a0a0&sideLabels=a0a0a0&dates=666666" width="100%" />
     </td>
     <td width="50%" valign="top" align="left">
       <h4>&nbsp;&nbsp;✦ Core Focus</h4>
