@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <strong>Web3 Growth Strategist & BD | AI Agent Researcher | Community & Partnerships Lead</strong>
+  <strong>Web3 Growth & BD | AI Automation & Agent Workflows</strong>
 </p>
 
 <p align="center">
-  I design growth systems and automation workflows at the intersection of Web3 and AI. Currently managing community operations for <strong>AntiAntiNFTs Club (AANC)</strong> (14K+ member DAO) while auditing AI agent capability flows to scale decentralized operations.
+  Designing automated workflows and growth systems at the intersection of Web3 and AI. Currently scaling <strong>AntiAntiNFTs Club (AANC)</strong> (14K+ members) and building custom AI agent modules.
 </p>
 
 ---
@@ -48,20 +48,13 @@
 
 ---
 
-### 🌟 Experience & Contribution Highlights
+### 💼 Core Experience & Contributions
 
-#### 🚀 Product Growth & Ecosystem BD (Freelance / RuneMine / Sui Vietnam)
-*   **Tokenomics & Gamification:** Designed Web3 RPG token economy models and user onboarding flows.
-*   **Campaign Operations:** Managed multi-region growth strategies (APAC, LATAM, Africa) and hosted AMAs/livestreams (1.2K+ live viewers).
-*   **Ecosystem Partnerships:** Advised RuneMine on VC relations, competitor trend analysis, and content strategy. Supported Sui Vietnam local channel growth.
-
-#### 👥 AntiAntiNFTs Club (AANC) DAO | Community Manager (2024 - Present)
-*   **Campaign Strategy:** Coordinated airdrops, whitelists, and joint activations with **BreadnButter, SoMon, Eternals, CounterFire, GOMBLE, Maxt1x Fire, Lumiterra**.
-*   **Ambassador Program:** Onboarded local builders and moderated quests as The Sandbox Vietnam Ambassador representative.
-
-#### 📚 C-Spaceship | Deputy Head of Research (2022 - 2023)
-*   **Team Leadership:** Scaled the research department by **20%** and co-managed a pipeline of **10+ articles, 6 videos, and 200+ posts monthly**.
-*   **Research Output:** Led content strategy on Layer-1/Layer-2 networks, generating **200K+ monthly views**.
+| Organization & Role | Core Contributions | Key Highlights |
+| :--- | :--- | :--- |
+| **AntiAntiNFTs Club (AANC)** <br> *Community Manager (2024 - Pres)* | • Coordinated campaign ops & joint activations with SoMon, Gomble, Lumiterra.<br>• Managed community onboarding and quests as The Sandbox VN Ambassador. | 14K+ Member DAO |
+| **Product & Ecosystem BD** <br> *Freelance / RuneMine / Sui VN* | • Developed tokenomics & gamified user onboarding models for Web3 RPGs.<br>• Led competitor trend analysis, VC outreach material, and local channel advisory. | APAC/LATAM Growth |
+| **C-Spaceship** <br> *Deputy Head of Research (2022 - 2023)* | • Managed monthly publication pipeline (10+ articles/mo) & scaled team by 20%.<br>• Designed research and content strategy focusing on Layer-1/Layer-2 networks. | 200K+ Monthly Views |
 
 ---
 
