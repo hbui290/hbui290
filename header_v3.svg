@@ -24,13 +24,13 @@
     }
     .prompt-text {
       font-family: 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-      font-size: 22px;
+      font-size: 18px;
       fill: #00E5FF; /* High-contrast Neon Cyan */
       font-weight: bold;
     }
     .code-text {
       font-family: 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-      font-size: 22px;
+      font-size: 18px;
       fill: #FFFFFF; /* Crisp White */
       font-weight: 500;
     }
@@ -91,12 +91,12 @@
       100% { opacity: 0; }
     }
 
-    /* Typing Width Animations (Font size 22px -> 1ch = 13px) */
+    /* Typing Width Animations (Font size 18px -> 1ch = ~10.8px) */
     @keyframes type1 {
       0% { width: 0; }
       1.5% { width: 0; animation-timing-function: steps(32); }
-      11.5% { width: 416px; } /* type in 1.5s */
-      23.3% { width: 416px; animation-timing-function: steps(32); } /* hold */
+      11.5% { width: 346px; } /* type in 1.5s */
+      23.3% { width: 346px; animation-timing-function: steps(32); } /* hold */
       30.0% { width: 0; } /* erase */
       33.3%, 100% { width: 0; }
     }
@@ -104,8 +104,8 @@
     @keyframes type2 {
       0%, 33.3% { width: 0; }
       34.8% { width: 0; animation-timing-function: steps(45); }
-      44.8% { width: 585px; } /* type in 1.5s */
-      56.6% { width: 585px; animation-timing-function: steps(45); } /* hold */
+      44.8% { width: 486px; } /* type in 1.5s */
+      56.6% { width: 486px; animation-timing-function: steps(45); } /* hold */
       63.3% { width: 0; } /* erase */
       66.6%, 100% { width: 0; }
     }
@@ -113,8 +113,8 @@
     @keyframes type3 {
       0%, 66.6% { width: 0; }
       68.1% { width: 0; animation-timing-function: steps(34); }
-      79.8% { width: 442px; } /* type in 1.75s */
-      90.0% { width: 442px; animation-timing-function: steps(34); } /* hold */
+      79.8% { width: 367px; } /* type in 1.75s */
+      90.0% { width: 367px; animation-timing-function: steps(34); } /* hold */
       96.6% { width: 0; } /* erase */
       100% { width: 0; }
     }
@@ -123,8 +123,8 @@
     @keyframes cursor-move1 {
       0% { transform: translateX(0); }
       1.5% { transform: translateX(0); animation-timing-function: steps(32); }
-      11.5% { transform: translateX(416px); }
-      23.3% { transform: translateX(416px); animation-timing-function: steps(32); }
+      11.5% { transform: translateX(346px); }
+      23.3% { transform: translateX(346px); animation-timing-function: steps(32); }
       30.0% { transform: translateX(0); }
       33.3%, 100% { transform: translateX(0); }
     }
@@ -132,8 +132,8 @@
     @keyframes cursor-move2 {
       0%, 33.3% { transform: translateX(0); }
       34.8% { transform: translateX(0); animation-timing-function: steps(45); }
-      44.8% { transform: translateX(585px); }
-      56.6% { transform: translateX(585px); animation-timing-function: steps(45); }
+      44.8% { transform: translateX(486px); }
+      56.6% { transform: translateX(486px); animation-timing-function: steps(45); }
       63.3% { transform: translateX(0); }
       66.6%, 100% { transform: translateX(0); }
     }
@@ -141,8 +141,8 @@
     @keyframes cursor-move3 {
       0%, 66.6% { transform: translateX(0); }
       68.1% { transform: translateX(0); animation-timing-function: steps(34); }
-      79.8% { transform: translateX(442px); }
-      90.0% { transform: translateX(442px); animation-timing-function: steps(34); }
+      79.8% { transform: translateX(367px); }
+      90.0% { transform: translateX(367px); animation-timing-function: steps(34); }
       96.6% { transform: translateX(0); }
       100% { transform: translateX(0); }
     }
@@ -160,28 +160,28 @@
   <!-- Animated Groups -->
   <!-- Sequence 1 -->
   <g class="group1">
-    <text class="prompt-text" x="25" y="80" textLength="156" lengthAdjust="spacingAndGlyphs">winston ~ % </text>
-    <g transform="translate(190, 80)">
-      <text class="code-text" textLength="416" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip1)">Degen | Web3 Builder | AI Newbie</text>
-      <rect class="cursor cursor1" x="0" y="-18" width="9" height="22" fill="#FFFFFF" />
+    <text class="prompt-text" x="25" y="80" textLength="130" lengthAdjust="spacingAndGlyphs">winston ~ % </text>
+    <g transform="translate(160, 80)">
+      <text class="code-text" textLength="346" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip1)">Degen | Web3 Builder | AI Newbie</text>
+      <rect class="cursor cursor1" x="0" y="-15" width="8" height="18" fill="#FFFFFF" />
     </g>
   </g>
 
   <!-- Sequence 2 -->
   <g class="group2">
-    <text class="prompt-text" x="25" y="80" textLength="156" lengthAdjust="spacingAndGlyphs">winston ~ % </text>
-    <g transform="translate(190, 80)">
-      <text class="code-text" textLength="585" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip2)">5+ yrs shipping products, scaling communities</text>
-      <rect class="cursor cursor2" x="0" y="-18" width="9" height="22" fill="#FFFFFF" />
+    <text class="prompt-text" x="25" y="80" textLength="130" lengthAdjust="spacingAndGlyphs">winston ~ % </text>
+    <g transform="translate(160, 80)">
+      <text class="code-text" textLength="486" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip2)">5+ yrs shipping products, scaling communities</text>
+      <rect class="cursor cursor2" x="0" y="-15" width="8" height="18" fill="#FFFFFF" />
     </g>
   </g>
 
   <!-- Sequence 3 -->
   <g class="group3">
-    <text class="prompt-text" x="25" y="80" textLength="156" lengthAdjust="spacingAndGlyphs">winston ~ % </text>
-    <g transform="translate(190, 80)">
-      <text class="code-text" textLength="442" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip3)">Hands-on with the agentic AI world</text>
-      <rect class="cursor cursor3" x="0" y="-18" width="9" height="22" fill="#FFFFFF" />
+    <text class="prompt-text" x="25" y="80" textLength="130" lengthAdjust="spacingAndGlyphs">winston ~ % </text>
+    <g transform="translate(160, 80)">
+      <text class="code-text" textLength="367" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip3)">Hands-on with the agentic AI world</text>
+      <rect class="cursor cursor3" x="0" y="-15" width="8" height="18" fill="#FFFFFF" />
     </g>
   </g>
 </svg>

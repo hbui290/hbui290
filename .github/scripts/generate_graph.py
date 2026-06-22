@@ -13,7 +13,7 @@ def main():
     output_svg_path = os.path.join(repo_dir, "profile-activity.svg")
 
     # 1. Fetch the dynamic graph SVG from Vercel (transparent background)
-    url = "https://github-readme-activity-graph.vercel.app/graph?username=hbui290&bg_color=00000000&color=a0a0a0&title_color=007aff&line=007aff&point=ffffff&area_color=053a75&hide_border=true"
+    url = "https://github-readme-activity-graph.vercel.app/graph?username=hbui290&bg_color=00000000&color=a0a0a0&title_color=007aff&line=007aff&point=ffffff&area_color=053a75&hide_border=true&hide_title=true"
     print(f"Fetching SVG from: {url}")
     response = requests.get(url)
     if response.status_code != 200:
