@@ -12,7 +12,7 @@
 
 ---
 
-5 yrs shipping Web3 products & scaling communities. Now hacking on AI agents and LLM toolchains.
+5 yrs shipping Web3 products & scaling communities. Now deep in agentic AI.
 
 ```
 Currently ─────────────────────────────────────────────────────
