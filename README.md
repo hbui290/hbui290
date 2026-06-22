@@ -15,9 +15,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake" />
-  <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hbui290&theme=react-dark&bg_color=16161e&hide_border=true" width="100%" />
 </p>
+
 
 ---
 
