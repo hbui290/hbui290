@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  Web3 Growth & BD &nbsp;·&nbsp; AI Tooling &nbsp;·&nbsp; LangChain / MCP
+  Web3 Growth & BD &nbsp;·&nbsp; AI Tooling &nbsp;·&nbsp; degen
 </p>
 
 ---
 
-5 years running growth and BD across Web3 — GameFi launches, DAO ops, ecosystem research. Now building tooling to audit and automate AI agent workflows.
+5 years running growth and BD across Web3 — GameFi launches, DAO ops, ecosystem research. Now exploring the AI agent frontier, diving into multi‑agent systems and advanced tool‑using LLM pipelines.
 
 ```
 Currently ─────────────────────────────────────────────────────
