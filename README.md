@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=16161e&height=120&text=Winston%20✦&fontSize=30&fontColor=007aff&desc=5%20yrs%20shipping%20Web3%20products%20%26%20scaling%20communities.%20Now%20deep%20in%20agentic%20AI.&descColor=a0a0a0&descSize=14&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=16161e&amp;height=120&amp;text=Winston%20%E2%9C%A6&amp;fontSize=30&amp;fontColor=007aff&amp;desc=5%20yrs%20shipping%20Web3%20products%20%26%20scaling%20communities.%20Now%20deep%20in%20agentic%20AI.&amp;descColor=a0a0a0&amp;descSize=14&amp;animation=fadeIn" width="100%" />
 </p>
+
 
 
 **Stack I Actually Use**
