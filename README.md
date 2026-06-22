@@ -12,27 +12,6 @@
   <img src="https://img.shields.io/badge/Python-007AFF?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="left">
-      <h4>&nbsp;&nbsp;✦ Core Focus</h4>
-      <ul>
-        <li><strong>Agentic AI</strong>: Designing autonomous workflows, custom MCP servers, & AST parsers.</li>
-        <li><strong>Web3 Systems</strong>: Bootstrapping community-led protocols & post-TGE tokenomics.</li>
-        <li><strong>Infrastructure</strong>: Optimizing developer pipelines, AST analyzers, & runtimes.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" align="left">
-      <h4>&nbsp;&nbsp;✦ Tech Stack</h4>
-      <ul>
-        <li><strong>Languages</strong>: TypeScript, Python, Rust, Go</li>
-        <li><strong>AI & Agents</strong>: Claude Code, Antigravity IDE, LangChain, MCP</li>
-        <li><strong>Web3 & Systems</strong>: Solidity, Ethers.js, Docker, GitHub Actions</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ---
 
 <p align="center">
@@ -43,5 +22,23 @@
 ---
 
 > Shipped product hitting `$4M+ rev` & `18x post-TGE` in 2 weeks &nbsp;&bull;&nbsp; Onboarded `32K+ active users` in 24h &nbsp;&bull;&nbsp; Scaled DAO community from `0 to 14K+`
+
+---
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hbui290&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" valign="top" align="left">
+      <h4>&nbsp;&nbsp;✦ Core Focus</h4>
+      <ul>
+        <li><strong>Agentic AI</strong>: Designing autonomous agent workflows & custom MCP tools.</li>
+        <li><strong>Web3 Systems</strong>: High-efficiency protocol routing & post-TGE mechanics.</li>
+        <li><strong>Infrastructure</strong>: Optimizing developer pipelines, AST analyzers, & runtimes.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
