@@ -28,10 +28,15 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=hbui290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hbui290&theme=tokyonight&hide_border=true" width="100%" />
     </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbui290&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
+    <td width="50%" valign="top" align="left">
+      <h4>&nbsp;&nbsp;✦ Core Focus</h4>
+      <ul>
+        <li><strong>Agentic AI</strong>: Designing autonomous agent workflows & custom MCP tools.</li>
+        <li><strong>Web3 Systems</strong>: High-efficiency protocol routing & post-TGE mechanics.</li>
+        <li><strong>Infrastructure</strong>: Optimizing developer pipelines, AST analyzers, & runtimes.</li>
+      </ul>
     </td>
   </tr>
 </table>
