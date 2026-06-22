@@ -35,8 +35,6 @@
   </tr>
 </table>
 
----
-
 <p align="center">
   <img src="profile-activity.svg?v=3" width="100%" />
 </p>
