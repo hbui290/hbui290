@@ -3,31 +3,29 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=7aa2f7&center=true&vCenter=true&width=600&lines=Web3+researcher+turned+AI+tinkerer;5+years+in+crypto+%7C+now+deep+in+agents;growth+%2F+BD+%2F+ops+%2F+automation;building+in+public+%E2%80%94+mostly+breaking+things" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=7aa2f7&center=true&vCenter=true&width=620&lines=Web3+researcher+turned+AI+tinkerer;5+years+in+crypto+%7C+now+deep+in+agents;Growth+%2F+BD+%2F+Ops+%2F+Automation;Building+in+public+%E2%80%94+mostly+breaking+things" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  crypto native &nbsp;·&nbsp; web3 growth & BD &nbsp;·&nbsp; ai agent learner
+  Crypto Native &nbsp;·&nbsp; Web3 Growth & BD &nbsp;·&nbsp; AI Agent Learner
 </p>
 
 ---
 
-**what i actually do**
+Spent the last few years deep in Web3 — marketing, BD, community ops, and ecosystem research across DeFi / GameFi / DAO infra. Now going deep on AI agents, MCP toolchains, and how to wire automation into the things I already know.
 
-spent the last few years in web3 — marketing, BD, community ops, ecosystem research across DeFi / GameFi / DAO infra. currently going deep on AI agents, MCP, and how to wire automation into the stuff i already know.
-
-most repos here are tools i built or forked to solve real problems. not portfolio pieces.
+Most repos here are tools I built or forked to solve real problems. Not portfolio pieces.
 
 ```
-currently exploring ──────────────────────────────────────────
-  ├─ agentic workflows  →  multi-step, tool-using LLM pipelines
+Currently Exploring ──────────────────────────────────────────
+  ├─ Agentic workflows  →  multi-step, tool-using LLM pipelines
   ├─ MCP + local models →  self-hosted infra for AI toolchains
-  └─ on-chain analytics →  automating signal extraction from data
+  └─ On-chain analytics →  automating signal extraction from data
 ```
 
 ---
 
-**stack i actually use**
+**Stack I Actually Use**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -41,24 +39,24 @@ currently exploring ────────────────────
 
 ---
 
-**things i've shipped / touched**
+**Things I've Built / Shipped**
 
-| repo | what it is |
+| Repo | What It Does |
 | :--- | :--- |
-| [skillspector](https://github.com/hbui290/skillspector) | security + capability scanner for AI agent skill files |
-| [last30days-skill](https://github.com/hbui290/last30days-skill) | pulls market signals from Reddit / HN / X / YouTube into one feed |
-| [9router](https://github.com/hbui290/9router) | local AI coding router — auto-fallback + latency tracking |
-| [test-lab](https://github.com/hbui290/test-lab) | scratch pad for tokenomics models & ops scripts |
+| [skillspector](https://github.com/hbui290/skillspector) | Security & capability scanner for AI agent skill files |
+| [last30days-skill](https://github.com/hbui290/last30days-skill) | Pulls market signals from Reddit / HN / X / YouTube into one feed |
+| [9router](https://github.com/hbui290/9router) | Local AI coding router — auto-fallback + latency tracking |
+| [test-lab](https://github.com/hbui290/test-lab) | Scratch pad for tokenomics models & ops scripts |
 
 ---
 
-**some numbers from the web3 side**
+**Some Numbers from the Web3 Side**
 
-> `+32K players` onboarded in 24h &nbsp;|&nbsp; `83K views / 8K participants` on a 2-week Galxe run &nbsp;|&nbsp; `14K member DAO` scaled from scratch &nbsp;|&nbsp; `200K+ monthly views` running research at C-Spaceship
+> `+32K players` onboarded in 24h &nbsp;·&nbsp; `83K views / 8K participants` on a 2-week Galxe campaign &nbsp;·&nbsp; `14K member DAO` scaled from scratch &nbsp;·&nbsp; `200K+ monthly views` running research at C-Spaceship
 
 ---
 
-**contribution graph**
+**Contribution Graph**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake" width="100%" />
