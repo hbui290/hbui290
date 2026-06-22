@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00a86b,100:007aff&height=120&section=header&v=5" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00a86b,100:007aff&height=120&section=header&v=6" width="100%" />
 </p>
 
 <p align="center">
@@ -27,12 +27,16 @@
 ![Ecosystem Strategy](https://img.shields.io/badge/Ecosystem%20Strategy-d97706?style=flat-square)
 
 **Tools & Stacks:**  
+![Claude](https://img.shields.io/badge/Claude-d97706?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-7c3aed?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7c3aed?style=flat-square&logo=obsidian&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-0f766e?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 ---
 
