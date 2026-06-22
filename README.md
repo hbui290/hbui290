@@ -2,16 +2,14 @@
   <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=7aa2f7&center=true&vCenter=true&width=620&lines=5+years+in+Web3+ops+%26+BD;now+deep+in+agentic+AI;LangChain+%2F+MCP+%2F+python" alt="Typing SVG" /></a>
 </p>
 
+```
+5 yrs shipping Web3 products & scaling communities. Now deep in agentic AI.
+```
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake" />
   <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake" />
 </p>
-
----
-
-```
-5 yrs shipping Web3 products & scaling communities. Now deep in agentic AI.
-```
 
 ---
 
