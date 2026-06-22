@@ -4,16 +4,12 @@
 
 **Stack I Actually Use**
 <p align="left">
-  <img src="https://img.shields.io/badge/Claude-16161e?style=flat-square&logo=anthropic&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/Codex-16161e?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM3YWEyZjciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjN2FhMmY3Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cGF0aCBmaWxsPSJ1cmwoI2cpIiBkPSJNNTAgNSBDNjUgNSA4MCAxNSA4NSAzMCBDOTUgMzIgMTAwIDQyIDk1IDUyIEMxMDAgNjIgOTUgNzUgODIgNzggQzc4IDkyIDYzIDk4IDUwIDk1IEMzNyA5OCAyMiA5MiAxOCA3OCBDNSA3NSAwIDYyIDUgNTIgQzAgNDIgNSAzMiAxNSAzMCBDMjAgMTUgMzUgNSA1MCA1WiIvPgogIDx0ZXh0IHg9IjUwIiB5PSI1OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIzMCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiMxNjE2MWUiPiZndDtfPC90ZXh0Pgo8L3N2Zz4=&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-16161e?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYSIgeDE9IjAlIiB5MT0iMTAwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM3YWEyZjciLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYmI5YWY3Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cGF0aCBmaWxsPSJ1cmwoI2EpIiBkPSJNMjEgNzcgQzI1IDY1LCAzNSAzMCwgNTAgMjUgQzY1IDMwLCA3NSA2NSwgNzkgNzcgQzgwIDgwLCA3NyA4MSwgNzQgNzggQzY3IDcwLCA1OCA1MiwgNTAgNTIgQzQyIDUyLCAzMyA3MCwgMjYgNzggQzIzIDgxLCAyMCA4MCwgMjEgNzcgWiIvPgo8L3N2Zz4=&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-16161e?style=flat-square&logo=typescript&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/Python-16161e?style=flat-square&logo=python&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/LangChain-16161e?style=flat-square&logo=chainlink&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/JavaScript-16161e?style=flat-square&logo=javascript&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/HTML5-16161e?style=flat-square&logo=html5&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/CSS3-16161e?style=flat-square&logo=css3&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/Bash-16161e?style=flat-square&logo=gnu-bash&logoColor=7aa2f7" />
+  <img src="https://img.shields.io/badge/TypeScript-007AFF?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-007AFF?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-007AFF?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-007AFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIxIDc3IEMyNSA2NSwgMzUgMzAsIDUwIDI1IEM2NSAzMCwgNzUgNjUsIDc5IDc3IEM4MCA4MCwgNzcgODEsIDc0IDc4IEM2NyA3MCwgNTggNTIsIDUwIDUyIEM0MiA1MiwgMzMgNzAsIDI2IDc4IEMyMyA4MSwgMjAgODAsIDIxIDc3IFoiLz48L3N2Zz4=&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-007AFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTUwIDUgQzY1IDUgODAgMTUgODUgMzAgQzk1IDMyIDEwMCA0MiA5NSA1MiBDMTAwIDYyIDk1IDc1IDgyIDc4IEM3OCA5MiA2MyA5OCA1MCA5NSBDMzcgOTggMjIgOTIgMTggNzggQzUgNzUgMCA2MiA1IDUyIEMwIDQyIDUgMzIgMTUgMzAgQzIwIDE1IDM1IDUgNTAgNVoiLz48dGV4dCB4PSI1MCIgeT0iNTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMzAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMDA3QUZGIj4mZ3Q7XzwvdGV4dD48L3N2Zz4=&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-007AFF?style=flat-square&logo=chainlink&logoColor=white" />
 </p>
 
 ---
@@ -22,7 +18,6 @@
   <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake" />
   <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake" />
 </p>
-
 
 ---
 
