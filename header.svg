@@ -98,9 +98,9 @@
     /* Typing Width Animations */
     @keyframes type1 {
       0% { width: 0; }
-      1.5% { width: 0; animation-timing-function: steps(35); }
-      11.5% { width: 385px; } /* type in 1.5s (from 1.5s to 3.0s) */
-      23.3% { width: 385px; animation-timing-function: steps(35); } /* hold for 1.77s */
+      1.5% { width: 0; animation-timing-function: steps(27); }
+      11.5% { width: 297px; } /* type in 1.5s (from 1.5s to 3.0s) */
+      23.3% { width: 297px; animation-timing-function: steps(27); } /* hold for 1.77s */
       30.0% { width: 0; } /* erase in 1.0s */
       33.3%, 100% { width: 0; }
     }
@@ -123,12 +123,11 @@
       100% { width: 0; }
     }
 
-    /* Cursor Position Animations */
     @keyframes cursor-move1 {
       0% { transform: translateX(0); }
-      1.5% { transform: translateX(0); animation-timing-function: steps(35); }
-      11.5% { transform: translateX(385px); }
-      23.3% { transform: translateX(385px); animation-timing-function: steps(35); }
+      1.5% { transform: translateX(0); animation-timing-function: steps(27); }
+      11.5% { transform: translateX(297px); }
+      23.3% { transform: translateX(297px); animation-timing-function: steps(27); }
       30.0% { transform: translateX(0); }
       33.3%, 100% { transform: translateX(0); }
     }
@@ -165,9 +164,8 @@
   <!-- Terminal Prompt -->
   <text class="prompt-text" x="25" y="80" textLength="132" lengthAdjust="spacingAndGlyphs">winston ~ % </text>
 
-  <!-- Animated Groups -->
   <g class="group1" transform="translate(165, 80)">
-    <text class="code-text" textLength="385" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip1)">Winston | Web3 &amp; AI Systems Engineer</text>
+    <text class="code-text" textLength="297" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip1)">Web3 &amp; AI Systems Engineer</text>
     <rect class="cursor cursor1" x="0" y="-15" width="8" height="18" fill="#007AFF" />
   </g>
 
