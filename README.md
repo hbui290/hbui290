@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=007AFF&center=true&vCenter=true&width=800&lines=Winston+%E2%9C%A6;5+yrs+shipping+Web3+products+%26+scaling+communities.+Now+deep+in+agentic+AI." alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=16161e&height=120&text=Winston%20✦&fontSize=30&fontColor=007aff&desc=5%20yrs%20shipping%20Web3%20products%20%26%20scaling%20communities.%20Now%20deep%20in%20agentic%20AI.&descColor=a0a0a0&descSize=14&animation=fadeIn" width="100%" />
 </p>
+
 
 **Stack I Actually Use**
 <p align="left">
