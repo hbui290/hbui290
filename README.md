@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=1a1b26&height=120&section=header&text=hbui290&fontSize=30&fontColor=7aa2f7&theme=tokyonight" width="100%" />
+  <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake" />
+  <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake" />
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=7aa2f7&center=true&vCenter=true&width=620&lines=5+years+in+Web3+ops+%26+BD;now+building+AI+tooling+on+top+of+it;LangChain+%2F+MCP+%2F+local+models" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=7aa2f7&center=true&vCenter=true&width=620&lines=5+years+in+Web3+ops+%26+BD;now+deep+in+agentic+AI;LangChain+%2F+MCP+%2F+python" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -48,11 +49,6 @@
 > `+32K players` onboarded in 24h &nbsp;·&nbsp; `83K views / 8K participants` on a 2-week Galxe campaign &nbsp;·&nbsp; `14K member DAO` scaled from scratch &nbsp;·&nbsp; `200K+ monthly views` running research at C-Spaceship
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake" />
-  <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake" />
-</p>
 
 <table width="100%">
   <tr>
