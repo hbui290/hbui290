@@ -19,19 +19,20 @@
 ### 🧰 Tech Stack & Toolkits
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web3_BD-7aa2f7?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Growth_Design-f7768e?style=for-the-badge&logo=google-analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-bb9af7?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Operations-2ac3de?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3_BD-7aa2f7?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Growth_Design-f7768e?style=flat-square&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-bb9af7?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operations-2ac3de?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-005F73?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_AI-ff9e64?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-1a1b26?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-005F73?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-ff9e64?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-1a1b26?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-bb9af7?style=flat-square&logo=googlegemini&logoColor=white" />
 </p>
 
 ---
