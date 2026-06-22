@@ -184,7 +184,7 @@
     <text class="prompt-text" x="25" y="70" textLength="132" lengthAdjust="spacingAndGlyphs">winston ~ % </text>
     <g transform="translate(165, 70)">
       <text class="code-text" textLength="66" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip1)">whoami</text>
-      <rect class="cursor cursor1" x="0" y="-15" width="8" height="18" fill="#007AFF" />
+      <rect class="cursor cursor1" x="0" y="-15" width="8" height="18" fill="#FFFFFF" />
     </g>
     <text class="output-text output1" x="25" y="105" textLength="352" lengthAdjust="spacingAndGlyphs">Degen | Web3 Builder | AI Newbie</text>
   </g>
@@ -194,7 +194,7 @@
     <text class="prompt-text" x="25" y="70" textLength="132" lengthAdjust="spacingAndGlyphs">winston ~ % </text>
     <g transform="translate(165, 70)">
       <text class="code-text" textLength="132" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip2)">track_record</text>
-      <rect class="cursor cursor2" x="0" y="-15" width="8" height="18" fill="#007AFF" />
+      <rect class="cursor cursor2" x="0" y="-15" width="8" height="18" fill="#FFFFFF" />
     </g>
     <text class="output-text output2" x="25" y="105" textLength="330" lengthAdjust="spacingAndGlyphs">5+ yrs shipping &amp; scaling Web3</text>
   </g>
@@ -204,7 +204,7 @@
     <text class="prompt-text" x="25" y="70" textLength="132" lengthAdjust="spacingAndGlyphs">winston ~ % </text>
     <g transform="translate(165, 70)">
       <text class="code-text" textLength="33" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip3)">now</text>
-      <rect class="cursor cursor3" x="0" y="-15" width="8" height="18" fill="#007AFF" />
+      <rect class="cursor cursor3" x="0" y="-15" width="8" height="18" fill="#FFFFFF" />
     </g>
     <text class="output-text output3" x="25" y="105" textLength="374" lengthAdjust="spacingAndGlyphs">Hands-on with the agentic AI world</text>
   </g>
