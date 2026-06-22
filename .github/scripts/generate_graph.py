@@ -61,9 +61,10 @@ def main():
     img = img.resize((width, height), Image.Resampling.LANCZOS)
 
     # Apply digital blur and dark overlay
-    img = img.filter(ImageFilter.GaussianBlur(radius=15))
+    img = img.filter(ImageFilter.GaussianBlur(radius=5))
     enhancer = ImageEnhance.Brightness(img)
-    img = enhancer.enhance(0.28) # 28% brightness
+    img = enhancer.enhance(0.38) # 38% brightness
+
 
     # 4. Save processed image as low-size JPEG in memory and base64-encode
     buffered = BytesIO()
