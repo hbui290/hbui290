@@ -1,68 +1,68 @@
 # Hi, I'm Winston 👋
 
-🚀 Creator of 9router | 🤖 AI/Agent Developer | 🔒 Cybersecurity & Sandbox Builder
+🌐 Tech-Savvy Explorer | 📈 Web3 & Crypto Marketer | 🤖 AI Automation & Workflow Enthusiast
 
-I focus on building secure, efficient, and cost-effective AI agent workflows, developer tools, and security analysis systems.
+I bridge the gap between technology, marketing, and Web3. While I am not a professional developer, I am highly tech-savvy and passionate about building personal workflows, automating operations, and exploring the crypto ecosystem.
 
 [![GitHub](https://img.shields.io/badge/GitHub-hbui290-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hbui290)
 
-<blockquote>⚡ I am exploring how small teams can ship with agentic workflows: model reasoning, tool use, memory, automation, and human taste working in the same loop.</blockquote>
+<blockquote>⚡ Using technology to build smarter workflows, optimize marketing operations, and explore Web3 systems.</blockquote>
 
 ---
 
-## 🧰 Skills & Tools
+## 🧰 Interests & Toolkits
 
-![Agent Engineering](https://img.shields.io/badge/Agent%20Engineering-111827?style=flat-square)
-![AI Coding](https://img.shields.io/badge/AI%20Coding-2563eb?style=flat-square)
-![Security Scanning](https://img.shields.io/badge/Security%20Scanning-d97706?style=flat-square)
+![Crypto & Web3](https://img.shields.io/badge/Crypto%20%26%20Web3-2563eb?style=flat-square)
+![Marketing Operations](https://img.shields.io/badge/Marketing%20Ops-ec4899?style=flat-square)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-d97706?style=flat-square)
+![AI Productivity](https://img.shields.io/badge/AI%20Productivity-10b981?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=flat-square)
+![Obsidian](https://img.shields.io/badge/Obsidian-7c3aed?style=flat-square&logo=obsidian&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-0f766e?style=flat-square)
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Personal Toolkits & Forks
+
+Most of my repositories are selected forks configured and optimized for personal use, productivity, and sandbox experiments:
 
 <table>
   <tbody>
     <tr>
       <td width="50%" valign="top">
-        <a href="https://github.com/hbui290/9router"><strong>9router</strong></a><br>
-        <sub>🆓 Unlimited FREE AI coding connection for Claude Code, Cursor, Cline, and Antigravity with auto-fallback and RTK optimizations.</sub><br><br>
-        <sub>Built with: <strong>JavaScript</strong></sub>
+        <a href="https://github.com/hbui290/9router"><strong>9router (Fork)</strong></a><br>
+        <sub>Personal setup of 9router for AI coding connections with auto-fallback and RTK optimizations.</sub><br><br>
+        <sub>Language: <strong>JavaScript</strong></sub>
       </td>
       <td width="50%" valign="top">
-        <a href="https://github.com/hbui290/skillspector"><strong>skillspector</strong></a><br>
-        <sub>Optimized security and capability scanner for AI agent skills. A security guardrail for AI workflows.</sub><br><br>
-        <sub>Built with: <strong>Python / LangChain</strong></sub>
+        <a href="https://github.com/hbui290/skillspector"><strong>skillspector (Fork)</strong></a><br>
+        <sub>Optimized security and capability scanner for AI agent skills, customized for local workflows.</sub><br><br>
+        <sub>Language: <strong>Python / LangChain</strong></sub>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <a href="https://github.com/hbui290/last30days-skill"><strong>last30days-skill</strong></a><br>
-        <sub>AI agent skill that researches any topic across Reddit, X, YouTube, HN, and synthesizes grounded summaries.</sub><br><br>
-        <sub>Built with: <strong>Python</strong></sub>
+        <a href="https://github.com/hbui290/last30days-skill"><strong>last30days-skill (Fork)</strong></a><br>
+        <sub>AI research agent skill to aggregate and synthesize insights across Reddit, YouTube, X, and the web.</sub><br><br>
+        <sub>Language: <strong>Python</strong></sub>
       </td>
       <td width="50%" valign="top">
         <a href="https://github.com/hbui290/repo2prompts"><strong>repo2prompts</strong></a><br>
-        <sub>Turns public repositories into evidence-backed briefs and reports optimized for AI coding agents.</sub><br><br>
-        <sub>Built with: <strong>Python</strong></sub>
+        <sub>Turns repository structures into evidence-backed briefs optimized for AI coding tools.</sub><br><br>
+        <sub>Language: <strong>Python</strong></sub>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
         <a href="https://github.com/hbui290/primeus-codex-monitor-public"><strong>primeus-codex-monitor-public</strong></a><br>
-        <sub>Public-safe demo of a snapshot-based control surface for Primeus x Codex operations workflows.</sub><br><br>
-        <sub>Built with: <strong>JavaScript</strong></sub>
+        <sub>A public-safe demo of a snapshot-based control surface for operations workflows.</sub><br><br>
+        <sub>Language: <strong>JavaScript</strong></sub>
       </td>
       <td width="50%" valign="top">
         <a href="https://github.com/hbui290/test-lab"><strong>test-lab</strong></a><br>
-        <sub>Public index and archive for sandbox repos, quick experiments, and test projects.</sub><br><br>
-        <sub>Built with: <strong>Markdown</strong></sub>
+        <sub>A personal sandbox index for archived experiments, quick scripts, and test projects.</sub><br><br>
+        <sub>Language: <strong>Markdown</strong></sub>
       </td>
     </tr>
   </tbody>
@@ -70,17 +70,17 @@ I focus on building secure, efficient, and cost-effective AI agent workflows, de
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Focus & Learning
 
-* 🚀 Improving safety guardrails and AST analyzers for agent skills inside **SkillSpector**.
-* 🌐 Optimizing routing, caching, and fallback speeds in **9router** to lower LLM cost overheads.
-* 🤖 Creating useful MCP servers and skills to connect LLMs to personal workflows.
+* 🌐 Exploring the intersection of **AI Agents** and daily **Marketing Operations**.
+* 📈 Finding and configuring tools to automate tasks and data flows.
+* 🔗 Researching Web3/Crypto utility models and project distribution.
 
 ---
 
 ## 💭 Philosophy
 
-<blockquote>Ship useful AI tools, document the path, and make agents feel less like demos and more like teammates.</blockquote>
+<blockquote>Automate the repetitive stuff so you have more time to focus on strategy, content, and system building.</blockquote>
 
 ---
 
