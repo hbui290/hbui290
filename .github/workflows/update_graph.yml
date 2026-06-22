@@ -1,0 +1,34 @@
+name: Update Profile Activity Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run daily at midnight UTC
+  workflow_dispatch: # Enable manual triggering
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          version: "latest"
+
+      - name: Generate activity graph SVG
+        run: |
+          uv run --with requests --with Pillow python3 .github/scripts/generate_graph.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-activity.svg
+          if git diff --staged --quiet; then
+            echo "No changes in activity graph"
+          else
+            git commit -m "docs: auto-update profile activity graph"
+            git push
+          fi
