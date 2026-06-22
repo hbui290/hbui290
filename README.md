@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=41A1F4&center=true&vCenter=true&width=500&lines=Web3+Growth+Strategist;AI+Agent+Researcher;DeFi+%26+GameFi+Ops" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=41A1F4&center=true&vCenter=true&width=600&lines=Web3+Growth+Strategist;AI+Agent+Researcher;DeFi+and+GameFi+Ops" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -12,12 +12,6 @@
 
 <p align="center">
   I design growth systems and automation workflows at the intersection of Web3 and AI. Currently managing community operations for <strong>AntiAntiNFTs Club (AANC)</strong> (14K+ member DAO) while auditing AI agent capability flows to scale decentralized operations.
-</p>
-
-<p align="center">
-  <a href="mailto:iamandrew0x@gmail.com"><img src="https://img.shields.io/badge/Email-iamandrew0x%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/imandrewwx0"><img src="https://img.shields.io/badge/X-%40imandrewwx0-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://t.me/imandrewwx0"><img src="https://img.shields.io/badge/Telegram-imandrewwx0-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
@@ -87,11 +81,8 @@ Most repositories here are customized forks to automate operations and audit AI 
 ### 📈 Contribution History
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 <p align="center">
