@@ -42,28 +42,31 @@ def main():
     if img.mode != 'RGB':
         img = img.convert('RGB')
 
-    # Crop and resize to cover the SVG aspect ratio (center crop)
+    # Resize with aspect ratio preserved to fit the height of the SVG
     img_w, img_h = img.size
-    target_aspect = width / height
-    current_aspect = img_w / img_h
+    new_height = height
+    new_width = int(img_w * (new_height / img_h))
+    img = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
 
-    if current_aspect > target_aspect:
-        # Image is wider than needed
-        new_width = int(target_aspect * img_h)
-        offset = (img_w - new_width) // 2
-        img = img.crop((offset, 0, offset + new_width, img_h))
-    else:
-        # Image is taller than needed
-        new_height = int(img_w / target_aspect)
-        offset = (img_h - new_height) // 2
-        img = img.crop((0, offset, img_w, offset + new_height))
+    # Create a canvas matching the theme background color (#16161e -> RGB: 22, 22, 30)
+    canvas = Image.new('RGB', (width, height), color=(22, 22, 30))
+    paste_x = (width - new_width) // 2
+    paste_y = (height - new_height) // 2
+    canvas.paste(img, (paste_x, paste_y))
+    img = canvas
 
-    img = img.resize((width, height), Image.Resampling.LANCZOS)
+    # Convert to black and white (grayscale)
+    img = img.convert('L')
 
-    # Apply digital blur and dark overlay
-    img = img.filter(ImageFilter.GaussianBlur(radius=5))
-    enhancer = ImageEnhance.Brightness(img)
-    img = enhancer.enhance(0.38) # 38% brightness
+    # Apply subtle digital blur to background code rain
+    img = img.filter(ImageFilter.GaussianBlur(radius=3)) # Less blur to keep detail
+
+    # Convert to RGB and adjust contrast and brightness
+    img = img.convert('RGB')
+    img = ImageEnhance.Contrast(img).enhance(1.3)     # Pop details
+    img = ImageEnhance.Brightness(img).enhance(0.35)  # Make it dark enough for the text/lines
+
+
 
 
     # 4. Save processed image as low-size JPEG in memory and base64-encode
