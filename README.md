@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-005F73?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_AI-ff9e64?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-1a1b26?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-414868?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Antigravity-bb9af7?style=flat-square&logo=googlegemini&logoColor=white" />
 </p>
 
