@@ -22,11 +22,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      - name: Push github-contribution-grid-snake to the output branch
-        uses: crazy-max/github-action-push-to-git-branch@v1
+      - name: Deploy to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          folder: dist
           branch: output
-          force: true
-          directory: dist
-          commit_message: "Update contribution snake animation"
+          token: ${{ secrets.GITHUB_TOKEN }}
