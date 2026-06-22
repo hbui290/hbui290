@@ -14,17 +14,6 @@
 
 ---
 
-<p align="center">
-  <img src="profile-activity.svg?v=3" width="100%" />
-</p>
-
-
-
-
-
-
----
-
 **Some Numbers from the Web3 Side**
 > Shipped product hitting `$4M+ rev` & `18x post-TGE` in 2 weeks &nbsp;&bull;&nbsp; Onboarded `32K+ active users` in 24h &nbsp;&bull;&nbsp; Scaled DAO community from `0 to 14K+`
 
@@ -47,3 +36,7 @@
 </table>
 
 ---
+
+<p align="center">
+  <img src="profile-activity.svg?v=3" width="100%" />
+</p>
