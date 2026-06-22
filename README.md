@@ -1,6 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&amp;color=16161e&amp;height=120&amp;text=Winston%20%E2%9C%A6&amp;fontSize=30&amp;fontColor=007aff&amp;desc=5%20yrs%20shipping%20Web3%20products%20%26%20scaling%20communities.%20Now%20deep%20in%20agentic%20AI.&amp;descColor=a0a0a0&amp;descSize=14&amp;animation=fadeIn" width="100%" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=4000&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Winston%20%E2%9C%A6;5+yrs+shipping+Web3+products+%26+scaling+communities.+Now+deep+in+agentic+AI." alt="Typing SVG" /></a>
+    </td>
+  </tr>
+</table>
+
 
 
 
