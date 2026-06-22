@@ -5,13 +5,8 @@
 
 ---
 
-5 yrs shipping Web3 products & scaling communities. Now deep in agentic AI.
-
 ```
-Currently ─────────────────────────────────────────────────────
-  ├─ skillspector     →  security & capability scanner for AI agent skill files
-  ├─ last30days-skill →  market-signal aggregator (Reddit, HN, X, YouTube)
-  └─ 9router          →  local LLM routing with auto-fallback & latency tracking
+5 yrs shipping Web3 products & scaling communities. Now deep in agentic AI.
 ```
 
 ---
