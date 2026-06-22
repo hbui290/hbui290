@@ -26,7 +26,7 @@
 
 **Some Numbers from the Web3 Side**
 
-> `+32K players` onboarded in 24h &nbsp;·&nbsp; `83K views / 8K participants` on a 2-week Galxe campaign &nbsp;·&nbsp; `14K member DAO` scaled from scratch &nbsp;·&nbsp; `200K+ monthly views` running research at C-Spaceship
+> `$4M+ post-launch revenue` & `18x TGE growth` (under NDA) &nbsp;·&nbsp; `+32K active players` onboarded in 24h &nbsp;·&nbsp; `14K member DAO` scaled from scratch
 
 ---
 
