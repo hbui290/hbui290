@@ -21,15 +21,6 @@
   <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake" />
 </p>
 
----
-
-**Things I've Built / Shipped**
-
-| Repo | What It Does |
-| :--- | :--- |
-| [repo2prompts](https://github.com/hbui290/repo2prompts) | Turns public repositories into evidence-backed briefs and report pages for coding agents |
-| [primeus-codex-monitor-public](https://github.com/hbui290/primeus-codex-monitor-public) | Public-safe demo of a snapshot-based control surface for operations workflows |
-| [test-lab](https://github.com/hbui290/test-lab) | Public index for archived experiments, sandbox repos, and tokenomics models |
 
 ---
 
