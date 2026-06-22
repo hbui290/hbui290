@@ -135,9 +135,30 @@ I actively customize and orchestrate personal automation toolkits, security scan
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+---
+
 ## 📈 Live Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hbui290&show_icons=true&theme=transparent" alt="Andrew's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbui290&layout=compact&theme=transparent" alt="Andrew's Top Langs" />
+  <a href="https://github.com/hbui290">
+    <img src="https://github-readme-stats.vercel.app/api?username=hbui290&show_icons=true&theme=transparent" alt="Andrew's GitHub stats" height="165" />
+  </a>
+  <a href="https://github.com/hbui290">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hbui290&theme=transparent" alt="Andrew's Streak Stats" height="165" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/hbui290">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbui290&layout=compact&theme=transparent" alt="Andrew's Top Langs" height="165" />
+  </a>
 </p>
