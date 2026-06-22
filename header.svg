@@ -41,7 +41,7 @@
     .output-text {
       font-family: 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
       font-size: 18px;
-      fill: #38BDF8;
+      fill: #FFFFFF;
     }
     .cursor {
       animation: blink 0.8s infinite;
