@@ -15,8 +15,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hbui290&theme=react-dark&bg_color=16161e&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hbui290&bg_color=16161e&color=a0a0a0&title_color=30d158&line=30d158&point=ffffff&area_color=1a5c2b&hide_border=true" width="100%" />
 </p>
+
 
 
 ---
