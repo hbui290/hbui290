@@ -2,10 +2,6 @@
   <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&lines=Winston+%E2%9C%A6;5+yrs+shipping+Web3+products+%26+scaling+communities.+Now+deep+in+agentic+AI." alt="Typing SVG" /></a>
 </p>
 
-```
-5 yrs shipping Web3 products & scaling communities. Now deep in agentic AI.
-```
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake" />
   <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake" />
