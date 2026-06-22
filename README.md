@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=7aa2f7&center=true&vCenter=true&width=620&lines=5+years+in+Web3+ops+%26+BD;now+deep+in+agentic+AI;LangChain+%2F+MCP+%2F+python" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&lines=Winston+%E2%9C%A6;5+yrs+shipping+Web3+products+%26+scaling+communities.+Now+deep+in+agentic+AI." alt="Typing SVG" /></a>
 </p>
 
 ```
