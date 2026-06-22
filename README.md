@@ -1,23 +1,20 @@
-
-<img src="header_v3.svg" width="100" />
+<p align="center">
+  <img src="header_v3.svg" width="100%" />
+</p>
 
 **Stack I Actually Use**
-
-![](https://img.shields.io/badge/Claude-007AFF?style=flat-square&logo=anthropic&logoColor=white)
-
-![](https://img.shields.io/badge/Antigravity-007AFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIxIDc3IEMyNSA2NSwgMzUgMzAsIDUwIDI1IEM2NSAzMCwgNzUgNjUsIDc5IDc3IEM4MCA4MCwgNzcgODEsIDc0IDc4IEM2NyA3MCwgNTggNTIsIDUwIDUyIEM0MiA1MiwgMzMgNzAsIDI2IDc4IEMyMyA4MSwgMjAgODAsIDIxIDc3IFoiLz48L3N2Zz4=&logoColor=white)
-
-![](https://img.shields.io/badge/Codex-007AFF?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTUwIDUgQzY1IDUgODAgMTUgODUgMzAgQzk1IDMyIDEwMCA0MiA5NSA1MiBDMTAwIDYyIDk1IDc1IDgyIDc4IEM3OCA5MiA2MyA5OCA1MCA5NSBDMzcgOTggMjIgOTIgMTggNzggQzUgNzUgMCA2MiA1IDUyIEMwIDQyIDUgMzIgMTUgMzAgQzIwIDE1IDM1IDUgNTAgNVoiLz48dGV4dCB4PSI1MCIgeT0iNTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMzAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMDA3QUZGIj4mZ3Q7XzwvdGV4dD48L3N2Zz4=&logoColor=white)
-
-![](https://img.shields.io/badge/LangChain-007AFF?style=flat-square&logo=chainlink&logoColor=white)
-
-![](https://img.shields.io/badge/TypeScript-007AFF?style=flat-square&logo=typescript&logoColor=white)
-
-![](https://img.shields.io/badge/Python-007AFF?style=flat-square&logo=python&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-007AFF?style=flat-square&amp;logo=anthropic&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-007AFF?style=flat-square&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIxIDc3IEMyNSA2NSwgMzUgMzAsIDUwIDI1IEM2NSAzMCwgNzUgNjUsIDc5IDc3IEM4MCA4MCwgNzcgODEsIDc0IDc4IEM2NyA3MCwgNTggNTIsIDUwIDUyIEM0MiA1MiwgMzMgNzAsIDI2IDc4IEMyMyA4MSwgMjAgODAsIDIxIDc3IFoiLz48L3N2Zz4=&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-007AFF?style=flat-square&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTUwIDUgQzY1IDUgODAgMTUgODUgMzAgQzk1IDMyIDEwMCA0MiA5NSA1MiBDMTAwIDYyIDk1IDc1IDgyIDc4IEM3OCA5MiA2MyA5OCA1MCA5NSBDMzcgOTggMjIgOTIgMTggNzggQzUgNzUgMCA2MiA1IDUyIEMwIDQyIDUgMzIgMTUgMzAgQzIwIDE1IDM1IDUgNTAgNVoiLz48dGV4dCB4PSI1MCIgeT0iNTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMzAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjMDA3QUZGIj4mZ3Q7XzwvdGV4dD48L3N2Zz4=&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-007AFF?style=flat-square&amp;logo=chainlink&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007AFF?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-007AFF?style=flat-square&amp;logo=python&amp;logoColor=white" />
+</p>
 
 **Some Numbers from the Web3 Side**
 
-⚡ Shipped product hitting `$4M+ rev` & `18x post-TGE` in 2 weeks  •  🌐 Onboarded `32K+ active users` in 24h  •  🔥 Scaled DAO community from `0 to 14K+ members`
+⚡ Shipped product hitting **`$4M+ rev`** &amp; **`18x post-TGE`** in 2 weeks &nbsp;&bull;&nbsp; 🌐 Onboarded **`32K+ active users`** in 24h &nbsp;&bull;&nbsp; 🔥 Scaled DAO community from **`0 to 14K+ members`**
 
 <table width="100%">
   <tr>
@@ -30,4 +27,6 @@
   </tr>
 </table>
 
-<img src="profile-activity.svg?v=3" width="100" />
+<p align="center">
+  <img src="profile-activity.svg?v=3" width="100%" />
+</p>
