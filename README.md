@@ -12,33 +12,36 @@
   <img src="https://img.shields.io/badge/Python-007AFF?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-```javascript
-const Winston = {
-  role: "AI & Web3 Engineer",
-  focus: ["Agentic AI", "Autonomous Workflows", "Protocol Integrations"],
-  metrics: {
-    delivered: "$4M+ rev & 18x post-TGE inside 2 weeks",
-    onboarded: "32K+ active users in 24h",
-    scaled: "DAO community from 0 to 14K+"
-  },
-  stack: {
-    languages: ["TypeScript", "Python", "Rust", "Go"],
-    aiAgents: ["Claude Code", "Antigravity IDE", "LangChain", "LlamaIndex", "MCP"],
-    web3: ["Solidity", "Ethers.js", "Viem", "Hardhat", "Subgraph"],
-    infra: ["Docker", "Kubernetes", "AWS", "Nginx", "GitHub Actions"]
-  }
-};
-```
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="left">
+      <h4>&nbsp;&nbsp;✦ Core Focus</h4>
+      <ul>
+        <li><strong>Agentic AI</strong>: Designing autonomous workflows, custom MCP servers, & AST parsers.</li>
+        <li><strong>Web3 Systems</strong>: Bootstrapping community-led protocols & post-TGE tokenomics.</li>
+        <li><strong>Infrastructure</strong>: Optimizing developer pipelines, AST analyzers, & runtimes.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" align="left">
+      <h4>&nbsp;&nbsp;✦ Tech Stack</h4>
+      <ul>
+        <li><strong>Languages</strong>: TypeScript, Python, Rust, Go</li>
+        <li><strong>AI & Agents</strong>: Claude Code, Antigravity IDE, LangChain, MCP</li>
+        <li><strong>Web3 & Systems</strong>: Solidity, Ethers.js, Docker, GitHub Actions</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake" />
   <img src="https://raw.githubusercontent.com/hbui290/hbui290/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake" />
 </p>
 
-![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)
+---
 
 > Shipped product hitting `$4M+ rev` & `18x post-TGE` in 2 weeks &nbsp;&bull;&nbsp; Onboarded `32K+ active users` in 24h &nbsp;&bull;&nbsp; Scaled DAO community from `0 to 14K+`
 
-![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)
+---
