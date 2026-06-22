@@ -5,13 +5,13 @@
 **Stack I Actually Use**
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Claude-ff9e64?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-414868?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM3QjlGRkYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjNUI1MEU4Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cGF0aCBmaWxsPSJ1cmwoI2cpIiBkPSJNNTAgNSBDNjUgNSA4MCAxNSA4NSAzMCBDOTUgMzIgMTAwIDQyIDk1IDUyIEMxMDAgNjIgOTUgNzUgODIgNzggQzc4IDkyIDYzIDk4IDUwIDk1IEMzNyA5OCAyMiA5MiAxOCA3OCBDNSA3NSAwIDYyIDUgNTIgQzAgNDIgNSAzMiAxNSAzMCBDMjAgMTUgMzUgNSA1MCA1WiIvPgogIDx0ZXh0IHg9IjUwIiB5PSI1OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIzMCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIj4mZ3Q7XzwvdGV4dD4KPC9zdmc+&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-bb9af7?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-005F73?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-ff9e64?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-414868?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM3QjlGRkYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjNUI1MEU4Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cGF0aCBmaWxsPSJ1cmwoI2cpIiBkPSJNNTAgNSBDNjUgNSA4MCAxNSA4NSAzMCBDOTUgMzIgMTAwIDQyIDk1IDUyIEMxMDAgNjIgOTUgNzUgODIgNzggQzc4IDkyIDYzIDk4IDUwIDk1IEMzNyA5OCAyMiA5MiAxOCA3OCBDNSA3NSAwIDYyIDUgNTIgQzAgNDIgNSAzMiAxNSAzMCBDMjAgMTUgMzUgNSA1MCA1WiIvPgogIDx0ZXh0IHg9IjUwIiB5PSI1OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIzMCIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIj4mZ3Q7XzwvdGV4dD4KPC9zdmc+&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-bb9af7?style=flat-square&logo=googlegemini&logoColor=white" />
 </p>
 
 ---
