@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00a86b,100:007aff&height=120&section=header&v=4" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00a86b,100:007aff&height=120&section=header&v=5" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=500&lines=Tech-Savvy+Explorer;Web3+%26+Crypto+Marketer;AI+Workflow+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=500&lines=Web3+%26+Crypto+BD;AI+Agent+Researcher;Ecosystem+Builder" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  I bridge the gap between technology, marketing, and Web3. While I am not a professional developer, I am highly tech-savvy and passionate about building personal workflows, automating operations, and exploring the crypto ecosystem.
+  I bridge the gap between business growth, partnerships, and emerging technology. Currently driving <strong>Business Development (BD)</strong> in the <strong>Web3 & Crypto</strong> ecosystem, while deeply researching <strong>AI Agents</strong> and workflow automation to scale operations.
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@
 
 ## 🧰 Interests & Toolkits
 
-**Core Domains:**  
-![Crypto & Web3](https://img.shields.io/badge/Crypto%20%26%20Web3-2563eb?style=flat-square)
-![Marketing Operations](https://img.shields.io/badge/Marketing%20Ops-ec4899?style=flat-square)
-![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-d97706?style=flat-square)
-![AI Productivity](https://img.shields.io/badge/AI%20Productivity-10b981?style=flat-square)
+**Core Focus:**  
+![Crypto BD & Partnerships](https://img.shields.io/badge/Crypto%20BD%20%26%20Partnerships-2563eb?style=flat-square)
+![Web3 Growth](https://img.shields.io/badge/Web3%20Growth-ec4899?style=flat-square)
+![AI Agent Research](https://img.shields.io/badge/AI%20Agent%20Research-10b981?style=flat-square)
+![Ecosystem Strategy](https://img.shields.io/badge/Ecosystem%20Strategy-d97706?style=flat-square)
 
 **Tools & Stacks:**  
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
@@ -34,48 +34,35 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-
 ---
 
 ## 🌟 Personal Toolkits & Forks
 
-Most repositories here are curated forks customized and optimized for operations, research, and sandbox marketing tests:
+Most repositories here are curated forks customized and optimized for market research, operations, and sandbox experiments:
 
 <table>
   <tbody>
     <tr>
       <td width="50%" valign="top">
-        <a href="https://github.com/hbui290/9router"><strong>9router (Fork)</strong></a><br>
-        <sub>Personal setup of 9router for AI coding connections with auto-fallback and RTK optimizations.</sub><br><br>
-        <sub>Language: <strong>JavaScript</strong></sub>
-      </td>
-      <td width="50%" valign="top">
         <a href="https://github.com/hbui290/skillspector"><strong>skillspector (Fork)</strong></a><br>
-        <sub>Optimized security and capability scanner for AI agent skills, customized for local workflows.</sub><br><br>
+        <sub>Optimized security and capability scanner for AI agent skills. I use it to audit agent capabilities and ensure safety guardrails in automated operations.</sub><br><br>
         <sub>Language: <strong>Python / LangChain</strong></sub>
       </td>
-    </tr>
-    <tr>
       <td width="50%" valign="top">
         <a href="https://github.com/hbui290/last30days-skill"><strong>last30days-skill (Fork)</strong></a><br>
-        <sub>AI research agent skill to aggregate and synthesize insights across Reddit, YouTube, X, and the web.</sub><br><br>
-        <sub>Language: <strong>Python</strong></sub>
-      </td>
-      <td width="50%" valign="top">
-        <a href="https://github.com/hbui290/repo2prompts"><strong>repo2prompts</strong></a><br>
-        <sub>Turns repository structures into evidence-backed briefs optimized for AI coding tools.</sub><br><br>
+        <sub>AI research agent skill to aggregate and synthesize market and competitor insights across Reddit, YouTube, X, and the web.</sub><br><br>
         <sub>Language: <strong>Python</strong></sub>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <a href="https://github.com/hbui290/primeus-codex-monitor-public"><strong>primeus-codex-monitor-public</strong></a><br>
-        <sub>A public-safe demo of a snapshot-based control surface for operations workflows.</sub><br><br>
+        <a href="https://github.com/hbui290/9router"><strong>9router (Fork)</strong></a><br>
+        <sub>Personal setup of 9router for AI coding connections with auto-fallback and RTK optimizations to power my automation scripts.</sub><br><br>
         <sub>Language: <strong>JavaScript</strong></sub>
       </td>
       <td width="50%" valign="top">
         <a href="https://github.com/hbui290/test-lab"><strong>test-lab</strong></a><br>
-        <sub>A personal sandbox index for archived experiments, quick scripts, and test projects.</sub><br><br>
+        <sub>A personal sandbox index for tokenomics analysis, quick scripts, and business operations experiments.</sub><br><br>
         <sub>Language: <strong>Markdown</strong></sub>
       </td>
     </tr>
@@ -86,15 +73,15 @@ Most repositories here are curated forks customized and optimized for operations
 
 ## 🎯 Focus & Learning
 
-* 🌐 Exploring the intersection of **AI Agents** and daily **Marketing Operations**.
-* 📈 Finding and configuring tools to automate tasks and data flows.
-* 🔗 Researching Web3/Crypto utility models and project distribution.
+* 🤝 **Web3 Partnerships & Ecosystem Growth:** Driving business development, identifying strategic integrations, and expanding network effects.
+* 🤖 **AI Agents & Multi-Agent Systems:** Deeply researching LLM reasoning, Model Context Protocol (MCP) servers, and agentic workflows to automate business intelligence.
+* 📊 **Tokenomics & Incentive Design:** Analyzing token utility models, staking mechanisms, and project distribution strategies.
 
 ---
 
 ## 💭 Philosophy
 
-<blockquote>Automate the repetitive stuff so you have more time to focus on strategy, content, and system building.</blockquote>
+<blockquote>Leverage AI agents to automate the repetitive operations, so we can focus on building high-value partnerships and driving ecosystem growth.</blockquote>
 
 ---
 
