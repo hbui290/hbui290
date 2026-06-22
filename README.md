@@ -62,7 +62,7 @@ Currently Exploring ────────────────────
 </p>
 
 <a href="https://github.com/hbui290">
-  <img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=hbui290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=hbui290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" />
 </a>
 <a href="https://github.com/hbui290">
   <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbui290&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
