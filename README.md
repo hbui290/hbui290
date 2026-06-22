@@ -28,6 +28,9 @@
 | Repo | What It Does |
 | :--- | :--- |
 | [repo2prompts](https://github.com/hbui290/repo2prompts) | Turns public repositories into evidence-backed briefs and report pages for coding agents |
+| [skillspector](https://github.com/hbui290/skillspector) | Security & capability scanner for AI agent skill files (Customized Fork) |
+| [last30days-skill](https://github.com/hbui290/last30days-skill) | Market-signal aggregator from Reddit, HN, X, YouTube (Customized Fork) |
+| [9router](https://github.com/hbui290/9router) | Local AI coding router with auto-fallback & latency tracking (Customized Fork) |
 | [primeus-codex-monitor-public](https://github.com/hbui290/primeus-codex-monitor-public) | Public-safe demo of a snapshot-based control surface for operations workflows |
 | [test-lab](https://github.com/hbui290/test-lab) | Public index for archived experiments, sandbox repos, and tokenomics models |
 
