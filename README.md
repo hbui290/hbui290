@@ -16,16 +16,11 @@
 
 ⚡ Shipped product hitting **`$4M+ rev`** &amp; **`18x post-TGE`** in 2 weeks &nbsp;&bull;&nbsp; 🌐 Onboarded **`32K+ active users`** in 24h &nbsp;&bull;&nbsp; 🔥 Scaled DAO community from **`0 to 14K+ members`**
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hbui290&amp;background=16161e&amp;border=16161e&amp;stroke=333333&amp;ring=007AFF&amp;fire=007AFF&amp;currStreakNum=007AFF&amp;sideNums=007AFF&amp;currStreakLabel=a0a0a0&amp;sideLabels=a0a0a0&amp;dates=666666" width="100%" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=hbui290&amp;show_icons=true&amp;bg_color=16161e&amp;border_color=16161e&amp;title_color=007AFF&amp;icon_color=007AFF&amp;text_color=a0a0a0&amp;count_color=007AFF&amp;hide_rank=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hbui290&amp;background=16161e&amp;border=16161e&amp;stroke=333333&amp;ring=007AFF&amp;fire=007AFF&amp;currStreakNum=007AFF&amp;sideNums=007AFF&amp;currStreakLabel=a0a0a0&amp;sideLabels=a0a0a0&amp;dates=666666" height="195" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=hbui290&amp;show_icons=true&amp;bg_color=16161e&amp;border_color=16161e&amp;title_color=007AFF&amp;icon_color=007AFF&amp;text_color=a0a0a0&amp;count_color=007AFF&amp;hide_rank=true" height="195" />
+</p>
 
 <p align="center">
   <img src="profile-activity.svg?v=3" width="100%" />
