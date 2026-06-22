@@ -24,9 +24,9 @@
 
 ---
 
-- Shipped Web3 product hitting `$4M+ rev` & `18x post-TGE` in 2 weeks
-- Onboarded `32K+ active players` in 24h
-- Bootstrapped a DAO to `14K+ members` from 0
+- Shipped product hitting `$4M+ rev` & `18x post-TGE` in 2 weeks
+- Onboarded `32K+ active users` in 24h
+- Scaled community from `0 to 14K+`
 
 ---
 
