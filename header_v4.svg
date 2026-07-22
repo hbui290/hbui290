@@ -160,7 +160,7 @@
   <!-- Animated Groups -->
   <!-- Sequence 1 -->
   <g class="group1">
-    <text class="prompt-text" x="25" y="80" textLength="115" lengthAdjust="spacingAndGlyphs">winston ~ % </text>
+    <text class="prompt-text" x="25" y="80" textLength="115" lengthAdjust="spacingAndGlyphs">harry ~ % </text>
     <g transform="translate(145, 80)">
       <text class="code-text" textLength="307" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip1)">Degen | Web3 Builder | AI Newbie</text>
       <rect class="cursor cursor1" x="0" y="-13" width="8" height="16" fill="#FFFFFF" />
@@ -169,7 +169,7 @@
 
   <!-- Sequence 2 -->
   <g class="group2">
-    <text class="prompt-text" x="25" y="80" textLength="115" lengthAdjust="spacingAndGlyphs">winston ~ % </text>
+    <text class="prompt-text" x="25" y="80" textLength="115" lengthAdjust="spacingAndGlyphs">harry ~ % </text>
     <g transform="translate(145, 80)">
       <text class="code-text" textLength="432" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip2)">5+ yrs shipping products, scaling communities</text>
       <rect class="cursor cursor2" x="0" y="-13" width="8" height="16" fill="#FFFFFF" />
@@ -178,7 +178,7 @@
 
   <!-- Sequence 3 -->
   <g class="group3">
-    <text class="prompt-text" x="25" y="80" textLength="115" lengthAdjust="spacingAndGlyphs">winston ~ % </text>
+    <text class="prompt-text" x="25" y="80" textLength="115" lengthAdjust="spacingAndGlyphs">harry ~ % </text>
     <g transform="translate(145, 80)">
       <text class="code-text" textLength="326" lengthAdjust="spacingAndGlyphs" clip-path="url(#clip3)">Trying to build my own Jarvis &lt; /&gt;</text>
       <rect class="cursor cursor3" x="0" y="-13" width="8" height="16" fill="#FFFFFF" />
